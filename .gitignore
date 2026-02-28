@@ -1,0 +1,17 @@
+# Bazel
+bazel-*
+*.runfiles/
+
+# Python venv (for utilities)
+.venv/
+venv/
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
